@@ -1,0 +1,39 @@
+{
+  "name": "betsol-load-on-demand",
+  "description": "Resource lazy-loading for browser",
+  "version": "0.0.0",
+  "homepage": "https://github.com/betsol/load-on-demand",
+  "license": "MIT",
+  "main": "dist/betsol-load-on-demand.js",
+  "devDependencies": {
+    "del": "~0",
+    "gulp": "~3",
+    "gulp-concat": "^2.5.2",
+    "gulp-header": "^1.7.1",
+    "gulp-rename": "~1",
+    "gulp-uglify": "~0",
+    "gulp-util": "~2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betsol/load-on-demand.git"
+  },
+  "keywords": [
+    "network",
+    "networking",
+    "http",
+    "request",
+    "ajax",
+    "load-on-demand",
+    "on-demand",
+    "resource",
+    "lazy-load",
+    "lazy-loading",
+    "lazy",
+    "load",
+    "loading",
+    "css",
+    "javascript",
+    "browser"
+  ]
+}
